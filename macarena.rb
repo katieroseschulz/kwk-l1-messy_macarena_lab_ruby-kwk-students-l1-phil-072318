@@ -20,11 +20,11 @@ puts "Step 4: Turn your left palm up."
 # Step 5: GOOD
 puts "Step 5: Place your right hand on your left shoulder."
 
-# Step 6: FIXME
+# Step 6: GOOD
 puts "Place your left hand on your right shoulder."
 
-# Step 7: FIXME
+# Step 7: GOOD
 puts "Step 7: Bring your right hand up and around to the back of your head."
 
-# Step 8: FIXME
-puts "Step 8: The Last Step"
+# Step 8: GOOD
+puts "Step 8: Bring your left hand up and around to the back your head."
