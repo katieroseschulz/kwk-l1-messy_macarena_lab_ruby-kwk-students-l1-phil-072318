@@ -17,11 +17,11 @@ puts "Step 3: Turn your right palm up."
 # Step 4: GOOD
 puts "Step 4: Turn your left palm up."
 
-# Step 5: FIXME
-puts "Step 5: ."
+# Step 5: GOOD
+puts "Step 5: Place your right hand on your left shoulder."
 
-# Step 5: FIXME
-puts "Step 6: Bring your right hand up and around to the back of your head."
+# Step 6: FIXME
+puts ""
 
 # Step 7: FIXME
 puts "Step 7: Place your left hand on your left shoulder."
